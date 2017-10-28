@@ -1,8 +1,6 @@
 """
 GeoProject for Python v. 1.1
 Coded by Kuba Siekierzynski 2016-2017
-Original file:
-https://code.sololearn.com/c57gr6Ay31s9/#py
 
 GeoProject is a small demonstration on how to use Google API in Python for some geolocation fun :)
 
