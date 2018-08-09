@@ -209,7 +209,7 @@ def predict_profit(population):
     pop = population / 10000
     return [1, pop] * theta_min * 10000
 
-# Now, let's check for a random city
+# Now, let's check a random city
 p = 50000 + 100000 * np.random.random()
 print('\n'+40*'=')
 print('\nBased on learned data, predicted profit for a city of population of {:,.0f} is ${:,.2f}.\n'.format(p, predict_profit(p).item()))
